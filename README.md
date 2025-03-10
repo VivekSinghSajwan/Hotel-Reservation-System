@@ -1,4 +1,4 @@
-# Hotel Management System
+# Hotel Reservation System
 
 ## Description
 This is a simple Hotel Management System implemented in Java with MySQL as the database. It allows users to perform basic reservation-related operations such as reserving a room, viewing reservations, retrieving room numbers, updating reservation details, and deleting reservations.
